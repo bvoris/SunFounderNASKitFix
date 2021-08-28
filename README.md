@@ -12,7 +12,7 @@ sudo apt update -y
 wget -O - https://raw.githubusercontent.com/OpenMediaVault-Plugin-Developers/installScript/master/install | sudo bash
 
 ## Download and installation of SunFounder NAS Kit repo
-cd ~
+cd ~< BR/>
 git clone https://github.com/sunfounder/nas-kit
 cd ~/nas-kit
 sudo python3 setup.py
