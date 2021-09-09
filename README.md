@@ -1,4 +1,4 @@
-# SunFounderNASKitFix
+# SunFounder NAS Kit Fix
 Sun Founder Raspberry Pi NAS Kit Fix
 ## Walkthrough
 Originally found reviewing SunFounder's Github rebo here:<BR />
