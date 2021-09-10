@@ -1,5 +1,7 @@
 # SunFounder NAS Kit Fix
-Sun Founder Raspberry Pi NAS Kit Fix
+Sunfounder Raspberry Pi NAS Kit Fix<BR />
+This is a full install for the Sunfounder NAS Kit from start to finish.
+
 ## Walkthrough
 Originally found reviewing SunFounder's Github rebo here:<BR />
 https://github.com/sunfounder/nas-kit/issues/4<BR />
